@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Daniel's Website
+description: This is Daniel's personal website.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
