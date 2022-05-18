@@ -11,4 +11,4 @@ This is the content I am using for my course:
 
 - [Time Series Decomposition](/timeseries/index.md)
 
-[![Loudoun County, 1993](https://img.youtube.com/vi/#####/0.jpg)](https://www.youtube.com/watch?v=PbPHk38p3Sg)
+[![Loudoun County, 1993](https://img.youtube.com/vi/PbPHk38p3Sg/0.jpg)](https://www.youtube.com/watch?v=PbPHk38p3Sg)
