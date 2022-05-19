@@ -7,7 +7,7 @@ title: Neural Networks Demo
 As apart of my undergraduate capstone experience, I learned about how to create basic neural networks using Python's Keras package. Download the following files.
 - [Tools & Techniques Jupyter Notebook](ToolsTechniques.ipynb)
 - [Tools & Techniques HTML Rendering](ToolsTechniques.html)
-- [Housing Data](subset_cleaned_data.xlsx)
+- [Housing Data CSV](subset_cleaned_data.csv)
 
 After downloading the necessary files, click the video to begin.
 
