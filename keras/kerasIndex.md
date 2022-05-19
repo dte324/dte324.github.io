@@ -1,5 +1,5 @@
 ---
-Neural Networks Demo
+title: Neural Networks Demo
 ---
 
 [Home](../index.md) | [Loudoun Real Estate](/loudounRealEstate/loudounIndex.md) | [Tableau](/tableau/tableauIndex.md)
