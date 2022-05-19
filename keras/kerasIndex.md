@@ -2,7 +2,7 @@
 title: Neural Networks Demo
 ---
 
-[Home](../index.md) | [Loudoun Real Estate](/loudounRealEstate/loudounIndex.md) | [Tableau](/tableau/tableauIndex.md)
+[Home](../index.md) | [Loudoun Real Estate](../loudounRealEstate/loudounIndex.md) | [Tableau](../tableau/tableauIndex.md)
 
 As apart of my undergraduate capstone experience, I learned about how to create basic neural networks using Python's Keras package. Download the following files.
 - [Tools & Techniques Jupyter Notebook](ToolsTechniques.ipynb)
