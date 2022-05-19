@@ -2,7 +2,7 @@
 title: Tableau
 ---
 
-[Home](../index.md) | [Loudoun Real Estate](https://dte324.github.io/loudounRealEstate/loudounIndex.md) | [Keras](https://dte324.github.io/keras/kerasIndex.html)
+[Home](../index.md) | [Loudoun Real Estate](https://dte324.github.io/loudounRealEstate/loudounIndex.html) | [Keras](https://dte324.github.io/keras/kerasIndex.html)
 
 In addition to creating several Tableau dashboards on financial trends, engineering review processes, container vulnerabilities, and marketing trends, I experimented with Tableau's annimation features when they were first released in 2020. Check out some videos I made early in the pandemic.
 
