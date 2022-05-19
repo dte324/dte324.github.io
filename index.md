@@ -1,5 +1,6 @@
 ---
 title: Daniel Eisert
+description: Data Scientist
 ---
 
 <p align="center">
