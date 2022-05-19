@@ -2,7 +2,7 @@
 title: Loudoun Real Estate
 ---
 
-[Home](../index.md)
+[Home](index.md)
 
 <p align="center">
 <img src="/images/AV25.jpg" width="300" />
