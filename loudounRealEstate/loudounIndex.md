@@ -2,7 +2,7 @@
 title: Loudoun Real Estate
 ---
 
-[Home](../index.md) | [Keras](/keras/index.md)
+[Home](../index.md) | [Keras](/keras/kerasIndex.md) | [Tableau](/tableau/tableauIndex.md)
 
 <p align="center">
 <img src="/images/AV25.jpg" width="300" />
