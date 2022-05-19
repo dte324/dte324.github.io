@@ -10,5 +10,5 @@ Hi, my name is Daniel Eisert, and I am currently a Data Scientist at the MITRE C
 
 ## Interesting Projects
 - [Eastern Loudoun Real Estate Calculator](/loudounRealEstate/index.md)
-- [Python's Keras Package Neural Network Demo](https://www.youtube.com/watch?v=juxqMT0Ow7E) Follow along in this seven minute video to see how to simply
+- [Python's Keras Package Neural Network Demo](/keras/index.md)
 
