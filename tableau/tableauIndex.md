@@ -4,7 +4,7 @@ title: Tableau
 
 [Home](../index.md) 
 
-In addition to creating several Tableau dashboards on financial trends, engineering review processes, container vulnerabilities, and marketing trends, I experimented with Tableau's annimation features when they were first released in 2020. Check out some videos I made early in the pandemic.
+In addition to creating several Tableau dashboards on financial trends, engineering review processes, container vulnerabilities, and marketing trends, I experimented with Tableau's annimation features when they were first released in 2020. Check out some videos I made early in the pandemic. Click on any of the video images below to watch them.
 
 ## COVID-19 Surge, February 2021
 [![COVID-19 Surge, February 2021](https://img.youtube.com/vi/mOjBFOxikio/0.jpg)](https://youtu.be/mOjBFOxikio)
