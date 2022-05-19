@@ -12,8 +12,6 @@ I webscraped 500+ recently sold home listings using Python and created three reg
 
 Check out the website [here](https://dte324.github.io/Loudoun-Real-Estate/)!
 
-[Caption](https://weather.com)
-
 <p align="center">
 <img src="/images/loudounWebsite.png" width="500" />
 </p>
