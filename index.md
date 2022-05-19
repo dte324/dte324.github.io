@@ -12,5 +12,4 @@ Hi, my name is Daniel Eisert, and I am currently a Data Scientist at the MITRE C
 - [Eastern Loudoun Real Estate Calculator](/loudounRealEstate/loudounIndex.md)
 - [Python's Keras Package Neural Network Demo](/keras/kerasIndex.md)
 - [COVID-19 Tableau Animations](/tableau/tableauIndex.md)
-- 
 
