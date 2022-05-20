@@ -1,5 +1,6 @@
 ---
 title: Neural Networks Demo
+description: Daniel Eisert
 ---
 
 [Home](../index.md)
