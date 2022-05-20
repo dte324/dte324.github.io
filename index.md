@@ -1,5 +1,6 @@
 ---
 title: Daniel Eisert
+description: Personal Portfolio
 ---
 
 <p align="center">
